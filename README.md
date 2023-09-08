@@ -1,6 +1,4 @@
-# Hi👋 there! I'm [Name].
-
-[One-line introduction about your profession/specialization/interests]
+# Hi👋 there! I'm Kim Sungwoo.
 
 ## Tech Stack
 
