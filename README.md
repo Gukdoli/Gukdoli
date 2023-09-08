@@ -1,4 +1,31 @@
-### Hi👋
+# Hi👋 there! I'm [Name].
+
+[One-line introduction about your profession/specialization/interests]
+
+## Tech Stack
+
+- Languages: Language1, Language2
+- Frameworks: Framework1, Framework2
+- Tools: Tool1, Tool2
+
+## Portfolio and Projects
+
+- [Project 1](https://example.com)
+  - Brief description
+  - Contributions made, etc.
+- [Project 2](https://example.com)
+  - Brief description
+  - Contributions made, etc.
+
+## Blog and Website
+
+- [Blog](https://example.com)
+- [Personal Website](https://example.com)
+
+## Contact and Social Media
+
+- Email: example@example.com
+- Twitter: [@username](https://twitter.com/username)
 
 <!--
 **Gukdoli/Gukdoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
