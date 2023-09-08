@@ -1,4 +1,4 @@
-# Hi👋 there! I'm Kim Sungwoo.
+### Hi👋 there! I'm Kim Sungwoo.
 
 ## Tech Stack
 
@@ -6,14 +6,6 @@
 - Frameworks: Framework1, Framework2
 - Tools: Tool1, Tool2
 
-## Portfolio and Projects
-
-- [Project 1](https://example.com)
-  - Brief description
-  - Contributions made, etc.
-- [Project 2](https://example.com)
-  - Brief description
-  - Contributions made, etc.
 
 ## Blog and Website
 
