@@ -2,20 +2,12 @@
 
 ## Tech Stack
 
-- Languages: Language1, Language2
-- Frameworks: Framework1, Framework2
-- Tools: Tool1, Tool2
-
-
-## Blog and Website
-
-- [Blog](https://example.com)
-- [Personal Website](https://example.com)
+- Languages: C#, Python
+- Tools: Unity, VSCode
 
 ## Contact and Social Media
 
-- Email: example@example.com
-- Twitter: [@username](https://twitter.com/username)
+- Email: tjddnwkdiy@gmail.com
 
 <!--
 **Gukdoli/Gukdoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
