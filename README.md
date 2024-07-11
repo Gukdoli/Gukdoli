@@ -2,8 +2,8 @@
 
 ## Tech Stack
 
-- Languages: C#, Python
-- Tools: Unity, VSCode
+- Languages: C#, Python, Java
+- Tools: Unity, ROS1/2
 
 ## Contact and Social Media
 
