@@ -1,28 +1,42 @@
-### Hi👋 there! I'm Kim Sungwoo.
+<h1 align="center">Hi 👋 I'm Kim Sungwoo</h1>
 
-## Tech Stack
+<p align="center">
+  Robotics & Software Developer
+</p>
 
-- Languages: C#, Python, Java
-- Tools: Unity, ROS1/2
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gukdoli&label=Profile%20views&color=79C83D&style=flat" alt="profile views" />
+</p>
 
-## Contact and Social Media
+---
 
-- Email: tjddnwkdiy@gmail.com
+### 🛠️ Tech Stack
 
-<!--
-**Gukdoli/Gukdoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
 
-Here are some ideas to get you started:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Tools & Frameworks**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgukdoli&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gukdoli&show_icons=true&theme=default&hide_border=true" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gukdoli&layout=compact&theme=default&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+### 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjddnwkdiy@gmail.com)
